@@ -16,13 +16,30 @@ Basicamente consiste em dividir a responsabilidade com todos do time, ou seja, n
 
 # Mas como aplicar isso no seu projeto?
 
-Claro que a realidade dos projetos muitas vezes nos impede de atingir o mundo ideal devido custos e tempo do projeto, mas se tivermos as ferramentas e processos para nos auxiliar, o objetivo pode ser atingido.de forma mais eficiente.
+Claro que a realidade dos projetos muitas vezes nos impede de atingir o mundo ideal devido custos e tempo do projeto, mas se tivermos as ferramentas e processos para nos auxiliar, o objetivo pode ser atingido.de forma mais eficiente, segue alguns deles:
 
  - Utilizar [Code Review](http://cwisoftware.github.io/drops/code-review) é uma das melhores maneiras de espalhar o conhecimento para a equipe.
+ - Se possivel praticar o Pair Programming.
  - Deixar o código legível e de fácil manutenção como também demonstrado nos Drops [Code Smells](http://cwisoftware.github.io/drops/codesmells-dry-kiss)  e  [Design Patterns](http://cwisoftware.github.io/drops/design-patterns) 
- - Ter uma padrão forte e consistente ajuda o desenvolvedor que precisar alterar outro modulo de seu projeto não se sinta perdido. Podemos usar ferramentas como o [SonarQube](http://cwisoftware.github.io/drops/sonarqube-code-analysis) 
- - Utilizar testes unitários para toda funcionalidade e manutenção do código, para garantir a integridade do projeto e deixar confortavel para que for aplicar a mudança
+ - Ter uma padrão forte, consistente e bem documentado ajuda o desenvolvedor que precisar alterar outro modulo de seu projeto não se sinta perdido. 
+ - E seguir esse padrão, se não concordar, discuta com o time, mas não quebre o padrão sozinho e de forma silenciosa.
+ - Não ter medo de refatorar o código caso necessario.
+ - Testes unitários para toda funcionalidade e manutenção do código, para garantir a integridade do projeto e deixar confortavel para quem for aplicar a mudança.
  - Testes de aceitação automatizados 
  - Fazer uso de [Integração Contínua](http://cwisoftware.github.io/drops/maturidade-integracao-continua) que executa esses testes a cada nova mudança.
 
+Essas são apenas alguns processos e ferramentas que auxiliam e muito o dia a dia, para ser possivel aplicar espalhar o conhemintos para todos.
 
+# Conclusão
+
+Sempre ter em mente que todos devem trabalhar para o bem do projeto, e não somente para se livrar de uma tarefa.
+E isso significa se preocupar com a qualidade, se envolver com o time, assumir responsabilidades, ter opnião e defender suas ideias. 
+
+### Referências
+
+ - [Collective Code Ownership](http://wiki.c2.com/?CollectiveCodeOwnership)
+ - [Collective Ownership](http://www.extremeprogramming.org/rules/collective.html)
+ - [Are there weaknesses with Collective Code Ownership?](https://www.infoq.com/news/2008/05/weaknesses_collective_code) 
+ - [CodeOwnership](https://www.martinfowler.com/bliki/CodeOwnership.html)
+ - [Code Ownership – Who Should Own the Code?](http://swreflections.blogspot.com.br/2013/04/code-ownership-who-should-own-code.html)
+ - [Revisiting XP: be a thoughtful programmer by exercising more collective ownership](https://www.infoq.com/articles/revisit-p-collective) 
