@@ -10,11 +10,11 @@ abstract: >
 O que buscamos com a disseminação do conhecimento do código no projeto é justamente evitar situações em que somente um indivíduo é responsável ou “dono” de algum módulo ou tela do sistema. Imagina se esse projeto já está em produção e precisamos fazer um hotfix urgente para o cliente. Vamos dizer que no momento não podemos solucionar por que somente o Fulano sabe como?
 Se todos da equipe se sentem confortáveis com o que foi construído facilita e muito a passagem de conhecimento para novos colegas, bem como agilidade para manutenções no código.
 
-# Definição
+### Definição
 
 Basicamente consiste em dividir a responsabilidade com todos do time, ou seja, ninguém é dono de alguma classe, método, tela  ou módulo em específico, todos são responsáveis pela manutenção e em garantir a qualidade do código do projeto.
 
-# Mas como aplicar isso no seu projeto?
+### Mas como aplicar isso no seu projeto?
 
 Claro que a realidade dos projetos muitas vezes nos impede de atingir o mundo ideal devido custos e tempo do projeto, mas se tivermos as ferramentas e processos para nos auxiliar, o objetivo pode ser atingido.de forma mais eficiente, segue alguns deles:
 
