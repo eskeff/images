@@ -30,7 +30,7 @@ Claro que a realidade dos projetos muitas vezes nos impede de atingir o mundo id
 
 Essas são apenas alguns processos e ferramentas que auxiliam e muito o dia a dia, para ser possivel aplicar espalhar o conhemintos para todos.
 
-# Conclusão
+### Conclusão
 
 Sempre ter em mente que todos devem trabalhar para o bem do projeto, e não somente para se livrar de uma tarefa.
 E isso significa se preocupar com a qualidade, se envolver com o time, assumir responsabilidades, ter opnião e defender suas ideias. 
