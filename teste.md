@@ -14,7 +14,19 @@ Se todos da equipe se sentem confortáveis com o que foi construído facilita e 
 
 Basicamente consiste em dividir a responsabilidade com todos do time, ou seja, ninguém é dono de alguma classe, método, tela  ou módulo em específico, todos são responsáveis pela manutenção e em garantir a qualidade do código do projeto.
 
-### Mas como aplicar isso no seu projeto?
+### Algumas vantagens
+  Ter o conhecimento difundido de forma homogenea pela equipe, para isso o time deve constantemente trocar informações e assim aumenta o nivel tecnico dos demais;
+  Código acaba ficando muito mais legivel e de facil entendimento para todos, já que se deve aplicar diversas tecnicas para garantir as boas praticas;
+  Time perde o receio de realizar manutenções e adição de novas funcionalides em qualquer parte do sistema, principalmente a medio e longo prazo.
+ 
+### Algumas desvantagens
+  A curto prazo o processo principalmente no inicio pode ser demorado, já que muitas vezes vai ser preciso envolver mais de uma pessoa para explicar a regra de negocio bem como o codigo que será modificado;
+  Apesar de diversas ferramentas e tecnicas pode acabar passando alguma coisa, e gerando algum bug devido a refatoração por exemplo;
+  Dependendo das pessoas envolvidas pode acabar causando conflitos devidos ideias diferentes e um certo "orgulho"
+  
+
+
+### Mas como aplicar essa pratica no seu projeto?
 
 Claro que a realidade dos projetos muitas vezes nos impede de atingir o mundo ideal devido custos e tempo do projeto, mas se tivermos as ferramentas e processos para nos auxiliar, o objetivo pode ser atingido.de forma mais eficiente, segue alguns deles:
 
